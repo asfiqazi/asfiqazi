@@ -14,7 +14,7 @@ I'm a full stack developer & software engineer
 
 👯‍♀️ I'm looking to collaborate on Islamic Projects.
 
-💞️ I’m looking to get hired:
+💞️ I’m looking to get hired: https://www.upwork.com/freelancers/~01e610e77c62b45194
 
 📫 How to reach me: iamasfi143@gmail.com & +92 317 3890469 (WhatsApp)
 
