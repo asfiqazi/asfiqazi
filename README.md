@@ -1,35 +1,53 @@
-# Get to Know Asfand Ali Qazi
-![Logo](https://asfiqazi.github.io/EmbdDemo/Resources/Asfi%20Qazi.png)
+# Asfand Ali
 
+**Full-Stack Developer**  
+Experienced Full-Stack Developer with a strong background in front-end and back-end technologies, including JavaScript, React, Node.js, and Python. Skilled in building scalable web applications and collaborating with teams to drive project success.
 
-# Hi, I'm Asfand Ali! 👋
+---
 
+## **Education**
 
-## 🚀 About Me
-I'm a full stack developer & software engineer
+- **Bachelor of Computer Science (2017 - 2020)**  
+  University of Sindh, Jamshoro
+- **ACCP EE: Advanced Diploma in Software Engineering (2022 - 2024)**  
+  Aptech, Malaysia  
 
-👩‍💻 I'm currently working on a MIS in electron.
+---
 
-🧠 I'm currently learning Go & RUST
+## **Work Experience**
 
-👯‍♀️ I'm looking to collaborate on Islamic Projects.
+### **Senior Faculty Member (2018 - 2021)**  
+**Aptech Latifabad**  
+- Taught Software Engineering (1st, 2nd, 3rd, 5th, and 6th Semesters).  
+- Delivered Seminars and T3 Sessions.
 
-💞️ I’m looking to get hired: https://www.upwork.com/freelancers/~01e610e77c62b45194
+### **Full-Stack Developer (2018 - 2021)**  
+**Fiverr**  
+- Successfully completed 25+ projects.  
+- Achieved Best Seller Badge with 5-Star Client Communication and Satisfaction.
 
-📫 How to reach me: iamasfi143@gmail.com & +92 317 3890469 (WhatsApp)
+---
 
+## **Expertise & Skills**
 
-## 🛠 Skills
-- HTML, CSS (Bootstrap, Sass, Less, TailWindCSS, MUI)
-- JavaScript (JQuery), React / Next + MERN
-- C# (WinForms,WPF, MAUI & ASP.NET Core)
-- Python: (OpenCV)
-- Java (JFrame)
-- R Programming
+- **Frontend:** HTML, CSS, JavaScript, jQuery, React, NextJS  
+- **UI Frameworks:** Bootstrap, Material UI (MUI), Tailwind CSS  
+- **Backend:** Node, Express, NestJS, PostgreSQL, MongoDB  
+- **Languages:** C#, Python, JavaScript, PHP  
 
+---
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://asfiqazi.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/asfand-ali-qazi-40358b224?trk=public_profile_samename-profile)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asfi_qazi)
+## **Languages**
 
+- English  
+- Urdu  
+- Arabic  
+
+---
+
+## **Contact Me**
+
+- **Phone:** +92 317 3890469  
+- **Email:** iamasfi143@gmail.com  
+- **Portfolio:** [www.asfiqazi.github.io](http://www.asfiqazi.github.io)  
+- **Address:** Hyderabad, Sindh, Pakistan  
