@@ -1,4 +1,5 @@
-<img src="./assets/Asfi_Qazi-transparent.png" alt="Asfand Ali - Logo" width="100" height="100" />
+<!-- <img src="./assets/Asfi_Qazi-no-bg.png" alt="Asfand Ali - Logo" width="100" height="100" /> -->
+![Logo](./assets/Asfi_Qazi-no-bg.png)
 
 
 **Full-Stack Developer**  
