@@ -51,5 +51,5 @@ Experienced Full-Stack Developer with a strong background in front-end and back-
 
 - **Phone:** +92 317 3890469  
 - **Email:** iamasfi143@gmail.com  
-- **Portfolio:** [www.asfiqazi.io](https://asfiqazi.github.io/)  
+- **Portfolio:** [https://asfiqazi.github.io](https://asfiqazi.github.io/)  
 - **Address:** Hyderabad, Sindh, Pakistan  
