@@ -1,4 +1,5 @@
-# Asfand Ali
+![Logo](./assets/Asfi_Qazi.png)
+
 
 **Full-Stack Developer**  
 Experienced Full-Stack Developer with a strong background in front-end and back-end technologies, including JavaScript, React, Node.js, and Python. Skilled in building scalable web applications and collaborating with teams to drive project success.
