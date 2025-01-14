@@ -1,4 +1,4 @@
-![Logo](./assets/Asfi_Qazi-transparent.png)
+<img src="./assets/Asfi_Qazi-transparent.png" alt="Asfand Ali - Logo" width="100" height="100" />
 
 
 **Full-Stack Developer**  
