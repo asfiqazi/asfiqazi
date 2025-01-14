@@ -1,4 +1,4 @@
-![Logo](./assets/Asfi_Qazi.png)
+![Logo](./assets/Asfi_Qazi-transparent.png)
 
 
 **Full-Stack Developer**  
