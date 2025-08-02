@@ -11,14 +11,14 @@ Experienced Full-Stack Developer with a strong background in front-end and back-
 
 - **Bachelor of Computer Science (2017 - 2020)**  
   University of Sindh, Jamshoro
-- **ACCP EE: Advanced Diploma in Software Engineering (2022 - 2024)**  
+- **ACCP EE: Advanced Diploma in Software Engineering (2017 - 2020)**  
   Aptech, Malaysia  
 
 ---
 
 ## **Work Experience**
 
-### **Senior Faculty Member (2018 - 2021)**  
+### **Senior Faculty Member (2022 - 2024)**  
 **Aptech Latifabad**  
 - Taught Software Engineering (1st, 2nd, 3rd, 5th, and 6th Semesters).  
 - Delivered Seminars and T3 Sessions.
